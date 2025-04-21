@@ -1,3 +1,7 @@
 # VPC Demo for 2 tier app in private subnet
 
 https://youtu.be/FZPTL_kNvXc
+
+
+# file copying from local machine to vm with pem key 
+filelocation:scp -i aws.pem aws.pem ubuntu@52.90.36.51:/home/ubuntu
